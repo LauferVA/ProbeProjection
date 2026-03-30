@@ -1,0 +1,18 @@
+{
+  "table": "Table 1: Technology Summary",
+  "source": "pipeline per-profile output",
+  "note": null,
+  "rows": [
+    {
+      "technology": "FISH",
+      "n_profiles": 5,
+      "total_probes": 5,
+      "probe_size_min_bp": null,
+      "probe_size_max_bp": null,
+      "probe_size_range": "N/A",
+      "pct_universal_coverage": 0.0,
+      "pct_population_specific_gap": 0.0,
+      "most_affected_superpopulation": "NFE"
+    }
+  ]
+}

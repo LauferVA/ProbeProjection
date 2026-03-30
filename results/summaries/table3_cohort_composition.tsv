@@ -1,0 +1,7 @@
+superpopulation_code	superpopulation_name	samples	haplotypes	min_detectable_disparity_uncorrected	min_detectable_disparity_pct	statistical_note
+AFR	African / African American	53	106	0.0825	8.3	Best powered; ~8% min detectable disparity
+NFE	Non-Finnish European	35	70	0.1083	10.8	Well powered; ~11% min detectable disparity
+EAS	East Asian	24	48	0.1394	13.9	Moderate power; ~14% min detectable disparity
+SAS	South Asian	19	38	0.1635	16.3	Limited power; ~16% min detectable disparity
+AMR	Admixed American	5	10	0.401	40.1	Underpowered; Fisher exact only; ~40% min detectable
+Total		136	272			

@@ -1,0 +1,63 @@
+{
+  "table": "Table 3: HPRC Cohort Composition",
+  "source": "manifest.json + power analysis",
+  "reference_coverage_assumed": 0.95,
+  "power_target": 0.8,
+  "alpha_base": 0.05,
+  "rows": [
+    {
+      "superpopulation_code": "AFR",
+      "superpopulation_name": "African / African American",
+      "samples": 53,
+      "haplotypes": 106,
+      "min_detectable_disparity_uncorrected": 0.0825,
+      "min_detectable_disparity_pct": 8.3,
+      "statistical_note": "Best powered; ~8% min detectable disparity"
+    },
+    {
+      "superpopulation_code": "NFE",
+      "superpopulation_name": "Non-Finnish European",
+      "samples": 35,
+      "haplotypes": 70,
+      "min_detectable_disparity_uncorrected": 0.1083,
+      "min_detectable_disparity_pct": 10.8,
+      "statistical_note": "Well powered; ~11% min detectable disparity"
+    },
+    {
+      "superpopulation_code": "EAS",
+      "superpopulation_name": "East Asian",
+      "samples": 24,
+      "haplotypes": 48,
+      "min_detectable_disparity_uncorrected": 0.1394,
+      "min_detectable_disparity_pct": 13.9,
+      "statistical_note": "Moderate power; ~14% min detectable disparity"
+    },
+    {
+      "superpopulation_code": "SAS",
+      "superpopulation_name": "South Asian",
+      "samples": 19,
+      "haplotypes": 38,
+      "min_detectable_disparity_uncorrected": 0.1635,
+      "min_detectable_disparity_pct": 16.3,
+      "statistical_note": "Limited power; ~16% min detectable disparity"
+    },
+    {
+      "superpopulation_code": "AMR",
+      "superpopulation_name": "Admixed American",
+      "samples": 5,
+      "haplotypes": 10,
+      "min_detectable_disparity_uncorrected": 0.401,
+      "min_detectable_disparity_pct": 40.1,
+      "statistical_note": "Underpowered; Fisher exact only; ~40% min detectable"
+    },
+    {
+      "superpopulation_code": "Total",
+      "superpopulation_name": "",
+      "samples": 136,
+      "haplotypes": 272,
+      "min_detectable_disparity_uncorrected": null,
+      "min_detectable_disparity_pct": null,
+      "statistical_note": ""
+    }
+  ]
+}

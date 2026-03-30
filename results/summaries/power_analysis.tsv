@@ -1,0 +1,21 @@
+superpopulation	full_name	samples	haplotypes	correction_scenario	n_tests	alpha_corrected	reference_coverage	power	min_detectable_disparity	min_detectable_disparity_pct
+AFR	African / African American	53	106	Uncorrected	1	0.05	0.95	0.8	0.0825	8.25
+AFR	African / African American	53	106	Bonferroni (4, FISH)	4	0.0125	0.95	0.8	0.1026	10.26
+AFR	African / African American	53	106	Bonferroni (500, NGS)	500	0.0001	0.95	0.8	0.1605	16.05
+AFR	African / African American	53	106	Bonferroni (6.85M, CMA)	6850000	7.299e-09	0.95	0.8	0.2513	25.13
+NFE	Non-Finnish European	35	70	Uncorrected	1	0.05	0.95	0.8	0.1083	10.83
+NFE	Non-Finnish European	35	70	Bonferroni (4, FISH)	4	0.0125	0.95	0.8	0.1353	13.53
+NFE	Non-Finnish European	35	70	Bonferroni (500, NGS)	500	0.0001	0.95	0.8	0.2133	21.33
+NFE	Non-Finnish European	35	70	Bonferroni (6.85M, CMA)	6850000	7.299e-09	0.95	0.8	0.3338	33.38
+EAS	East Asian	24	48	Uncorrected	1	0.05	0.95	0.8	0.1394	13.94
+EAS	East Asian	24	48	Bonferroni (4, FISH)	4	0.0125	0.95	0.8	0.1748	17.48
+EAS	East Asian	24	48	Bonferroni (500, NGS)	500	0.0001	0.95	0.8	0.2765	27.65
+EAS	East Asian	24	48	Bonferroni (6.85M, CMA)	6850000	7.299e-09	0.95	0.8	0.4289	42.89
+SAS	South Asian	19	38	Uncorrected	1	0.05	0.95	0.8	0.1635	16.35
+SAS	South Asian	19	38	Bonferroni (4, FISH)	4	0.0125	0.95	0.8	0.2052	20.52
+SAS	South Asian	19	38	Bonferroni (500, NGS)	500	0.0001	0.95	0.8	0.324	32.4
+SAS	South Asian	19	38	Bonferroni (6.85M, CMA)	6850000	7.299e-09	0.95	0.8	0.4974	49.74
+AMR	Admixed American	5	10	Uncorrected	1	0.05	0.95	0.8	0.401	40.1
+AMR	Admixed American	5	10	Bonferroni (4, FISH)	4	0.0125	0.95	0.8	0.4934	49.34
+AMR	Admixed American	5	10	Bonferroni (500, NGS)	500	0.0001	0.95	0.8	0.7173	71.73
+AMR	Admixed American	5	10	Bonferroni (6.85M, CMA)	6850000	7.299e-09	0.95	0.8	0.9401	94.01
