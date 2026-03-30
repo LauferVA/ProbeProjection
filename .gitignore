@@ -1,0 +1,35 @@
+# Agent coordination state and session artifacts
+.**/
+!/.github/
+!/.github/**
+!/.gitignore
+!/.python-version
+
+# Pipeline outputs (generated, potentially large)
+results/corpus/
+results/per_profile/
+results/logs/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+*.egg
+
+# Node (if any tooling uses it)
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
