@@ -1,0 +1,62 @@
+{
+  "run_id": "e75d7dde-68f7-448c-b3c2-8d3e369b39b6",
+  "run_timestamp": "2026-03-30T05:38:49.025053+00:00Z",
+  "cli_args": {
+    "profiles_dir": "/Users/lauferva/genomics_reference_files/complement/profiles/",
+    "graph_dir": "/Users/lauferva/genomics_reference_files/complement/graph/hprc-v2.0-mc-grch38-grch37-grch36/og/",
+    "output_dir": "/Users/lauferva/software/ProbeProjection/results/",
+    "ancestry_json": null,
+    "hprc_metadata_dir": null,
+    "technology_filter": [
+      "FISH"
+    ],
+    "assembly_filter": null,
+    "profile_id_filter": null,
+    "parallel": 4,
+    "max_loaded_chromosomes": 4,
+    "mapping_quality_threshold": 0.5,
+    "resume": false,
+    "dry_run": false,
+    "log_level": "INFO",
+    "log_file": "/Users/lauferva/software/ProbeProjection/results/projection_fish.log"
+  },
+  "resolved_paths": {
+    "profiles_dir": "/Users/lauferva/genomics_reference_files/complement/profiles",
+    "graph_dir": "/Users/lauferva/genomics_reference_files/complement/graph/hprc-v2.0-mc-grch38-grch37-grch36/og",
+    "output_dir": "/Users/lauferva/software/ProbeProjection/results"
+  },
+  "resource_metadata": {
+    "profile_count": 1563,
+    "cohort_sample_count": 136,
+    "cohort_hprc_version": "unknown",
+    "graph_version": "unknown",
+    "registry_sample_count": 136,
+    "registry_population_counts": {
+      "NFE": 35,
+      "EAS": 24,
+      "AMR": 5,
+      "AFR": 53,
+      "SAS": 19
+    },
+    "registry_haplotype_counts": {
+      "NFE": 70,
+      "EAS": 48,
+      "AMR": 10,
+      "AFR": 106,
+      "SAS": 38
+    }
+  },
+  "filters": {
+    "assembly_filter": [
+      "GRCh38"
+    ],
+    "technology_filter": [
+      "FISH"
+    ],
+    "profile_id_filter": null
+  },
+  "eligible_profile_count": 319,
+  "eligible_by_technology": {
+    "FISH": 319
+  }
+}
