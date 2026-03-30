@@ -11,6 +11,9 @@ results/per_profile/
 results/logs/
 *.log
 
+# Demo/test outputs (regenerable)
+distribution/bed/demo.*
+
 # Python
 __pycache__/
 *.py[cod]
